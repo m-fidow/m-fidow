@@ -16,3 +16,4 @@ of tech.
 ![image](https://user-images.githubusercontent.com/70723238/139853331-2fcd4237-a6b7-4b79-8fbe-4ce909417e27.png)
 ![image](https://user-images.githubusercontent.com/70723238/139853414-0bd99c52-38e1-4e66-9324-4c0692ddadfe.png)
 
+![Muna's github stats](https://github-readme-stats.vercel.app/api?username=m-fidow&theme=vue)
