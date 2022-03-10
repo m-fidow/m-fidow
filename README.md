@@ -1,5 +1,5 @@
 # Hi, I'm Muna.
-I'm a Front End Engineer who has a passion for building creative
+I'm a full stack developer who has a passion for building creative
 projects and solving problems. I am a lifelong learner
 always looking to stretch my comfort zone.
 I enjoy working with JavaScript and React and I am excited
