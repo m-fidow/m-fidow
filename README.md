@@ -1,10 +1,8 @@
 # Hi, I'm Muna.
-I'm a full stack developer who has a passion for building creative
+I'm a Full Stack developer who has a passion for building creative
 projects and solving problems. I am a lifelong learner
 always looking to stretch my comfort zone.
-I enjoy working with JavaScript and React and I am excited
-to be exposed to more parts of the ever expanding world
-of tech.
+
 
 ### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
